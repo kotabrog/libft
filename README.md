@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a basic function created in C language in 42 tasks.
+This is a basic function created in C in 42 tasks.
 
 ## Requirement
 
